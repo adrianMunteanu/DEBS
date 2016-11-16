@@ -1,0 +1,5 @@
+Muntianu Cristian: FileUtils, StreamQueue
+Rotundu Alin:PostDAO, COmmentDAO, ConsoleView
+Munteanu Adrian:DAteUtils. Query1Controller, ScoresModel
+Babinciuc Adela:Services
+Micu Iustin: Model one of the project components using BPMN
